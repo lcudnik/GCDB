@@ -1,0 +1,319 @@
+idCourse,courseTitle,idLocation
+227721,JrK-Homeroom,1825
+227722,1-Bible,1825
+227723,1-Math,1825
+227724,1-Oral Read.,1825
+227725,1-Penmanship,1825
+227726,1-Phonics,1825
+227728,2-Bible,1825
+227729,2-Math,1825
+227730,2-Oral Reading,1825
+227731,2-Penmanship,1825
+227732,2-Phonics,1825
+227733,2-Reading Comp.,1825
+227734,2-Spelling,1825
+227735,3-Language,1825
+227736,3-Math,1825
+227737,3-Reading,1825
+227738,3-Spelling,1825
+227739,4-Language,1825
+227740,4-Math,1825
+227741,4-Reading,1825
+227742,4-Spelling,1825
+227743,K-Math,1825
+227744,K-Penmanship,1825
+227745,K-Phonics,1825
+227746,K-Reading,1825
+227747,1-Computer,1825
+227748,1-Music,1825
+227749,1-Library,1825
+227750,1-PE,1825
+227751,2-Computer,1825
+227752,2-Library,1825
+227753,2-PE,1825
+227754,2-Music,1825
+227755,3-PE,1825
+227756,3-Computer,1825
+227757,3-Library,1825
+227758,3-Music,1825
+227759,4-PE,1825
+227760,4-Computer,1825
+227761,4-Music,1825
+227762,4-Library,1825
+227763,JrK-PE,1825
+227764,K-Library,1825
+227765,K-Computer,1825
+227766,K-Music,1825
+227767,JrK-Music,1825
+227768,1-Art,1825
+227769,2-Art,1825
+227770,3-Art,1825
+227771,4-Art,1825
+227772,JrK-Art,1825
+227773,K-Art,1825
+227774,1-SCI/HIST,1825
+227775,1-SPANISH,1825
+227776,1-Language,1825
+227777,2-Spanish,1825
+227778,3-Spanish,1825
+227779,4-Spanish,1825
+227780,JrK-Spanish,1825
+227781,K-Spanish,1825
+227782,3-History/Science,1825
+227783,4-Science/History,1825
+227784,2-History/Science,1825
+227785,01-Homeroom,1825
+227786,02-Homeroom,1825
+227787,03-Homeroom,1825
+227788,04-Homeroom,1825
+227789,K-Homeroom,1825
+227790,3-Bible,1825
+227791,K-PE,1825
+227792,3-Language ASC,1825
+227793,4-Language ASC,1825
+227795,2-Reading ASC,1825
+227799,Art 2,1827
+227802,Anatomy/Physiology,1827
+227803,Ancient W Hist and Geog,1827
+227804,Art 1,1827
+227805,Art 3,1827
+227806,Concert Band,1827
+227807,Bible 9,1827
+227808,Bible 10,1827
+227810,Economics,1827
+227811,English 9,1827
+227812,English 11,1827
+227813,English 12 DC,1827
+227814,Geometry,1827
+227815,Algebra 2,1827
+227816,English 10,1827
+227817,Concert Choir,1827
+227818,Modern W Hist and Geog,1827
+227819,Spanish 1,1827
+227820,Spanish 2,1827
+227821,Speech,1827
+227822,Algebra 1,1827
+227823,Drum Line Marching,1827
+227826,Biology 1,1827
+227828,Philharmonic Orchestra,1827
+227829,Theater,1827
+227830,Drum Line Competitive,1827
+227831,Physics,1827
+227832,Technical Theater,1827
+227833,Government,1827
+227834,Speed & Strength,1827
+227835,Forensic Science,1827
+227837,Chemistry,1827
+227838,Learning Lab,1827
+227839,Ceramics 1,1827
+227840,US History,1827
+227842,Ceramics 2,1827
+227846,Academic Coaching,1827
+227847,Speech Communication DC,1827
+227848,Athletics,1827
+227849,Calculus AP®,1827
+227850,ADV Statistics DC,1827
+227851,Physics AP®,1827
+227852,Physics H,1827
+227855,Algebra 2 H,1827
+227856,Biology 1 H,1827
+227857,Chemistry H,1827
+227858,English 11 AP®,1827
+227859,Geometry H,1827
+227861,Spanish 3 H,1827
+227864,Chemistry AP®,1827
+227865,English 12 AP®,1827
+227866,ADV Biology DC,1827
+227868,Government AP®,1827
+228123,6 Bible,1826
+228125,6 History,1826
+228126,6 Science,1826
+228127,7 PreAlgebra,1826
+228128,7 Literature,1826
+228129,7 Science,1826
+228130,8 Science,1826
+228131,Performance Company,1826
+228132,8 Art,1826
+228133,8 Bible,1826
+228134,8 English,1826
+228135,8 History,1826
+228136,7/8 GIRLS P.E.,1826
+228137,7 Art,1826
+228138,7/8 BOYS P.E.,1826
+228139,6 Art,1826
+228140,6 Math,1826
+228141,6 PE,1826
+228142,7 History,1826
+228144,8 PreAlgebra,1826
+228146,Beginning Band,1826
+228147,6 Advanced Math,1826
+228149,7 Math,1826
+228150,8 Spanish,1826
+228151,7/8 Orchestra,1826
+228153,5 Math,1826
+228154,Beginning Orchestra,1826
+228155,7/8  Band,1826
+228158,7/8 Boys Choir,1826
+228159,7/8 Girls Choir,1826
+228165,7 Bible,1826
+228167,5 Science,1826
+228171,5 PE,1826
+228172,Reading Lab,1826
+228173,Math Lab,1826
+228175,5 Learning Lab,1826
+228178,K Bible,1828
+228179,2 Bible,1828
+228180,K Foundations/Reading,1828
+228181,K Math,1828
+228182,2 Foundations/Reading,1828
+228183,2 Math,1828
+228184,2 Spelling/Writing,1828
+228185,1 Bible,1828
+228187,1 Math,1828
+228189,K Phonics/Writing,1828
+228190,3 Bible,1828
+228197,3 Math,1828
+228198,3 Reading,1828
+228199,4 Grammar/Writing,1828
+228201,4 Math,1828
+228204,4 Latin,1828
+228222,6 Reading,1828
+228223,6 Writing/Grammar,1828
+228225,7/8 Writing,1828
+228229,2 Music,1828
+228230,3 Music,1828
+228242,K Science/History,1828
+228244,2 Art,1828
+228245,4 Art,1828
+228254,1 Phonics/Language,1828
+228255,1 Science/History,1828
+228256,1 Spelling/Writing,1828
+228258,2 Science/History,1828
+228259,2 Phonics/Language,1828
+228260,3 Science/History,1828
+240820,5 Bible,1826
+240822,6 Vocal and Dramatic Arts,1826
+240829,5 History,1826
+242983,Financial Math,1827
+244002,Intro to Theater,1827
+244004,Yearbook,1827
+247647,7 Study Hall,1826
+247674,8 Study Hall,1826
+248308,Learning Advantage,1827
+249021,Study Hall,1827
+249944,6 Learning Lab,1826
+249945,7 Learning Lab,1826
+249946,8 Learning Lab,1826
+250714,3-Math ASC,1825
+251656,5 Writing/Grammar,1828
+251657,5 Reading,1828
+251704,3 Language Arts,1828
+253551,Educational Therapy,1826
+253552,K Homeroom,1828
+253553,1 Homeroom,1828
+253554,2 Homeroom,1828
+255176,Hard Topics in the Bible,1827
+255292,Spiritual Disciplines,1827
+255293,Engineering Survey,1827
+255406,Bible 12,1827
+255407,Chapel Practicum,1827
+255408,Bible 11,1827
+255803,1-Reading Comp.,1825
+261818,Reading Intervention,1827
+261819,Math Intervention,1827
+262643,3 Art,1828
+262646,4 Music,1828
+262657,4 Bible,1828
+262659,4 Foundations/Reading,1828
+262660,4 Science/History,1828
+262661,3 Homeroom,1828
+262662,4 Homeroom,1828
+263041,Algebra 1,1828
+263463,Latin,1828
+264095,Language & Fine Arts Survey,1826
+264389,3 Latin,1828
+264745,1-Math ASC,1825
+272737,Spanish 4 H,1827
+272738,Miracles & Mysteries,1827
+272739,US History DC,1827
+283439,5 English Language Arts,1826
+283440,6 English Language Arts,1826
+283467,6 Advisory,1826
+283474,5 Advisory,1826
+283779,8 Algebra I Honors,1826
+284811,K Art,1828
+284812,1 Art,1828
+284813,K Music,1828
+285125,K Spanish,1828
+285128,1 Music,1828
+285129,5 Art,1828
+285132,5 Music,1828
+285142,6 Music,1828
+285143,6 Art,1828
+285144,Art,1828
+285146,8 Art,1828
+285148,1 Spanish,1828
+285150,2 Spanish,1828
+285152,5 Homeroom,1828
+285154,6 Homeroom,1828
+285156,5 Bible,1828
+285158,5 History/Geography,1828
+285166,5 Science,1828
+285169,6 Bible,1828
+285170,6 History/Geography,1828
+285171,6 Science,1828
+285197,Physical Science,1828
+285199,Pre-Algebra,1828
+285314,6 Math,1828
+285315,5 Math,1828
+285717,7 TX History,1828
+285718,World Geography,1828
+286458,English 12,1827
+287227,4-Math ASC,1825
+287480,5 Latin,1828
+287532,6 Latin,1828
+287634,2-Math ASC,1825
+287657,4-Reading ASC,1825
+287683,5 Testing Center,1826
+288043,4-Spelling ASC,1825
+288951,3-Spelling ASC,1825
+288952,3-Reading ASC,1825
+289239,2-Spelling ASC,1825
+292278,Inspire,1827
+292424,College & Career,1827
+296674,Human Geography AP®,1827
+296675,World History AP®,1827
+302916,8 Math,1826
+305842,Academic Coaching,1826
+307272,Library 5,1826
+307273,Library 6,1826
+307731,7 Math,1828
+307956,7 Humanities,1828
+307958,8 Humanities,1828
+307963,7 HR/Logic,1828
+307964,8 HR/Logic,1828
+308196,ASP,1825
+308481,K-Phonics ASC,1825
+308482,K-Math ASC,1825
+311092,Library,1828
+311187,1-Reading ASC,1825
+313938,Pre-Calculus DC,1827
+313940,Pre-Calculus,1827
+313941,Computer Science I,1827
+313942,Comparative Religions,1827
+313953,Entrepreneurship Foundations,1827
+313954,IPC Intervention,1827
+320996,7 Wellness,1826
+320997,STEM,1826
+321871,Anatomy/Physiology DC,1827
+323827,US History M,1827
+323828,Engineering Science Intervention,1827
+323829,Government Intervention,1827
+323830,English 12 Intervention,1827
+323834,English 11 Intervention,1827
+323835,English 9 Intervention,1827
+323836,Geometry M,1827
+324008,1-Spelling,1825
+324658,Advisory,1828
+325436,1-Spelling ASC,1825
+330336,History of World Religions,1827

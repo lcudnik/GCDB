@@ -1,0 +1,5 @@
+{
+    "serverIP":"UBA-SQL.gcs.gracetyler.org",
+    "serverPort":"3306",
+    "dbName":"nexus"
+}
